@@ -1,0 +1,3 @@
+com\taotao\sso\controller\LoginController.class
+com\taotao\sso\controller\ToKenController.class
+com\taotao\sso\controller\UserController.class
